@@ -25,4 +25,5 @@ go.work.sum
 /.fleet
 .app.yml
 .env
+/storage/temp
 
